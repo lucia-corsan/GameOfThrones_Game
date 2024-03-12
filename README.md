@@ -1,5 +1,4 @@
 # Game of Thrones Action Game
-- Course: Programming
 This repository contains the development of an action game regarding Game of Thrones in Python.
 
 ## Overview
